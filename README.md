@@ -10,7 +10,7 @@
 ![HTML Badge](<https://img.shields.io/badge/HTML-(5%25)-red>)
 ![CSS Badge](<https://img.shields.io/badge/CSS-(5%25)-darkblue>)
 
-- An application that I created for testing components using GitHub Actions, Git Hooks, and JavaScript alongside the library React.
+- An application that I created for testing components using Vitest, GitHub Actions, Git Hooks, and JavaScript alongside the library React.
 
 ## Description
 
