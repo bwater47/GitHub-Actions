@@ -88,7 +88,7 @@ People who worked on this project were Brennan Waterbury. You can contact the co
 
 ## Features
 
-<strong>GitHub Actions</strong>: The GitHub Actions was created to showcase my skill in testing.
+<strong>GitHub Actions</strong>: The GitHub Actions was created to showcase my skills in testing.
 
 ## Contributing
 
@@ -112,7 +112,7 @@ Chatgpt. ChatGPT. (07/25/24). https://openai.com/chatgpt
 
 ## Roadmap
 
-Tests: Failing
+Tests: Passing
 
 ## Project status
 
