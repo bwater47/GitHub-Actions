@@ -1,20 +1,23 @@
 # Book-Emporium
 
-![React Badge](<https://img.shields.io/badge/React-(30%25)-blue>)
 ![JavaScript Badge](<https://img.shields.io/badge/JavaScript-(30%25)-yellow>)
+![React Badge](<https://img.shields.io/badge/React-(30%25)-blue>)
+![Git Hooks Badge](<https://img.shields.io/badge/Hooks-(10%25)-darkorange>)
+![GitHub Actions Badge](<https://img.shields.io/badge/Actions-(10%25)-darkred>)
 ![Test Badge](<https://img.shields.io/badge/Test-(Passing)-brightgreen>)
-![CSS Badge](<https://img.shields.io/badge/CSS-(10%25)-darkblue>)
-![HTML Badge](<https://img.shields.io/badge/HTML-(10%25)-red>)
+![Vite Badge](<https://img.shields.io/badge/Vite-(5%25)-purple>)
 ![Node Badge](<https://img.shields.io/badge/Node.js-(5%25)-green>)
+![HTML Badge](<https://img.shields.io/badge/HTML-(5%25)-red>)
+![CSS Badge](<https://img.shields.io/badge/CSS-(5%25)-darkblue>)
 
-- An application that I created for testing components with JavaScript using the library React.
+- An application that I created for testing components using GitHub Actions, Git Hooks, and JavaScript alongside the library React.
 
 ## Description
 
-- <strong>Motivation:</strong> My motivation for building this application was to create a failed test on an element, and then have it pass.
-- <strong>Purpose:</strong> This project was built to demonstrate my skills with test driven development.
-- <strong>Problem Solved:</strong> This solves the problem of not having code that is tested before deployment automatically.
-- <strong>Learning Outcomes:</strong> In this project, I learned how to test and deploy a test driven application that uses GitHub Actions to perform tests automatically before deployment.
+- <strong>Motivation:</strong> My motivation for building this application was to create a tangible demonstration of test-driven development by building an application with an intentionally failing test case, which I subsequently corrected.
+- <strong>Purpose:</strong> This project was built to showcase the practicality of my proficiency in test-driven development principles and methodologies.
+- <strong>Problem Solved:</strong> This solves the problem of ensuring code quality and reliability by implementing automated testing and deployment through GitHub Actions.
+- <strong>Learning Outcomes:</strong> In this project, I gained practical experience in applying agile methodologies through test-driven development, GitHub Actions, and Git Hooks. By integrating automated testing into the deployment pipeline, I learned how to enhance code quality and reduce risks associated with unstructured commits. This project deepened my understanding of the importance of rigorous testing in maintaining software reliability.
 
 ## Table of Contents (Optional)
 
@@ -55,18 +58,16 @@ Here is a table of contents to make it easy for users to locate which section th
 
 ## Usage
 
-The GitHub Actions is used to show off my skill with testing using GitHub Actions through render with a static site.
+The GitHub Actions is used to show off my skill with testing using Vitest, and GitHub Actions through render with a static site.
 
 - <strong>GitHub Actions Link</strong>
 
-- [Website](https://book-emporium-xkfa.onrender.com/)
+- [Website](https://github-actions-ydbo.onrender.com)
 
 - <strong>GitHub Actions Screenshots</strong>
 
-- ![Screenshot](./client/src/assets/Search.png)
-- ![Screenshot](./client/src/assets/LoggedIn.png)
-- ![Screenshot](./client/src/assets/Saved.png)
-- ![Screenshot](./client/src/assets/Remove.png)
+- ![Screenshot](./src/assets/Live.png)
+- ![Screenshot](./src/assets/Clicked.png)
 
 ## Support
 
